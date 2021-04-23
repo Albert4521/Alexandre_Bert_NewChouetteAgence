@@ -730,6 +730,12 @@ h4 {
     color: #333333!important;
 }
 
+.lienIcone{
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    margin: -2px;
+}
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
